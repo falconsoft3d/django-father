@@ -5,14 +5,13 @@ git clone https://github.com/falconsoft3d/django-father
 
 # Activamos el entorno virtual
 ```
-cd env
+cd django-father/env
 source bin/activate
 ```
 
 # Activamos el entorno virtual
 ```
 cd ..
-cd father
 python manage.py runserver
 ```
 
