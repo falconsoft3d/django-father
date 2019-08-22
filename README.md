@@ -12,6 +12,13 @@ python manage.py runserver
 localhost:8000
 ```
 
+# Entras al admin
+```
+localhost:8000/admin
+usuario:admin
+pass: x1234567890
+```
+
 # Si quieres hacer migraciones
 ```
 python manage.py migrate
